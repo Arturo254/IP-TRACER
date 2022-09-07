@@ -13,3 +13,4 @@ Para saber información necesaria de una dirección IP (OJO NO DOXEA)
  ``` chmod 777 *;chmod +x * ```
 
 ```  bash ip-tracer ```
+https://raw.githubusercontent.com/Arturo254/Ref.png
